@@ -1,0 +1,5 @@
+{
+  "name": "Mr.Intelli",
+  "description": "Upload CSV data and ask natural language questions to generate instant charts and data insights.",
+  "requestFramePermissions": []
+}
